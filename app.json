@@ -1,0 +1,12 @@
+{
+  "name": "ReactNativeMaps",
+  "displayName": "ReactNativeMaps",
+  "expo": {
+    "name": "ReactNativeMaps",
+    "slug": "ReactNativeMaps",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
